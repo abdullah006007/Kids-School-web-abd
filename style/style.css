@@ -618,6 +618,11 @@ html, body {
     font-size: 1.6rem;
     font-weight: 700;
     }
+
+
+    .container{
+        margin: 10px;
+    }
     
 
 }
