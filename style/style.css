@@ -570,7 +570,7 @@ html, body {
         padding: 8px 13px;
         font-size: 0.8rem; 
         left: 7px;
-        top: -2px;
+        top: -20px;
         
         
     }
@@ -628,11 +628,15 @@ html, body {
         margin: 10px;
     }
     
+    .story-tittle{
+        margin-left: 22px;
+    }
 
 }
 
 
     
+
 
 
 
