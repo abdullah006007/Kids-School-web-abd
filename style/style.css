@@ -565,9 +565,11 @@ html, body {
 
 
     .n-btn , .o-button{
-        padding: 10px 15px;
-        font-size: 1rem; 
-        left: 10px;
+        padding: 8px 13px;
+        font-size: 0.8rem; 
+        left: 7px;
+        top: -20px;
+        
         
     }
 
@@ -582,9 +584,9 @@ html, body {
     }
     
     .its-footer {
-        flex-direction: column; /* If needed */
-        justify-content: flex-start; /* Align items to start */
-        align-items: flex-start; /* Prevent centering */
+        flex-direction: column; 
+        justify-content: flex-start; 
+        align-items: flex-start;
     }
 
     .for-footer-des , .keep-touch {
