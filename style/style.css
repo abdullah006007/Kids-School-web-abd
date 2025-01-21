@@ -482,15 +482,17 @@ html, body {
     height: 20px; 
     overflow: hidden;
     position: relative;
+    background-color: #8700FF;
     
 }
 
 .marquee-content {
     position: absolute;
     white-space: nowrap;
-    animation: marquee 10s linear infinite;
+    animation: marquee 15s linear infinite;
     font-size: 0.9rem; 
     display: inline-block;
+    background-color: #64C8FF;
 }
 
 @keyframes marquee {
@@ -568,7 +570,7 @@ html, body {
         padding: 8px 13px;
         font-size: 0.8rem; 
         left: 7px;
-        top: -20px;
+        top: -2px;
         
         
     }
@@ -607,7 +609,7 @@ html, body {
     }
 
     .its-nav-bar{
-    padding: 20px;
+    padding: 0 20px 10px;
     box-sizing: border-box;
     border-bottom: 0.5px solid rgb(254, 163, 1);
 
